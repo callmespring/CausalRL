@@ -42,11 +42,14 @@ Please cite our paper
 ["Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework"](https://arxiv.org/pdf/2002.01711.pdf)
 
 ``` 
-@article{shi2021time,
-  title={Dynamic Causal Effects Evaluation in A/B Testing with a Reinforcement Learning Framework},
+@article{shi2023dynamic,
+  title={Dynamic causal effects evaluation in a/b testing with a reinforcement learning framework},
   author={Shi, Chengchun and Wang, Xiaoyu and Luo, Shikai and Zhu, Hongtu and Ye, Jieping and Song, Rui},
   journal={Journal of the American Statistical Association},
-  volume={accepted}
-  year={2021}
+  pages={2059-2071},
+  volume={108},
+  number={543},
+  year={2023},
+  publisher={Taylor \& Francis}
 }
 ``` 
